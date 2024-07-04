@@ -17,7 +17,7 @@ _Que requisitos se necesita para instalar el software_
 
 Sistema operativo: Windows 10/11
 
-Ram: 6/8 de ram
+Mem. Ram: 6/8
 
 Procesador: 1.80 2.00 Ghz o más
 

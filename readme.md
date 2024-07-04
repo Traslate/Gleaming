@@ -19,7 +19,7 @@ Sistema operativo: Windows 10/11
 
 Mem. Ram: 6/8
 
-Procesador: 1.80 2.00 Ghz o más
+Procesador: 1.80 - 2.00 Ghz o más
 
 Tipo de sistema: Procesador basado en 64x bits
 

@@ -24,9 +24,9 @@ Procesador: 1.80 2.00 Ghz o más
 Tipo de sistema: Procesador basado en 64x bits
 
 
-**¿Como se si cumplo los requisitos?**
+***¿Como se si cumplo los requisitos?***
 
-Para verificar si cumples con los requisitos dirigete a
+Para verificar si cumples con los requisitos dirigete a:
 
 - la carpeta de archivos
 - Este equipo

@@ -23,15 +23,14 @@ Procesador: 1.80 2.00 Ghz o más
 
 Tipo de sistema: Procesador basado en 64x bits
 
-```
+
 ¿Como se si cumplo los requisitos?
-```
+
 Para verificar si cumples con los requisitos dirigete a
 
 - la carpeta de archivos
 - Este equipo
 - Propiedades de "Este equipo"
-- 
 ### Instalación 🔧
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_

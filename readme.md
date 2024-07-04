@@ -1,6 +1,6 @@
-# Título del Proyecto
+# Gleaming
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Define el proyecto_
 
 ## Comenzando 🚀
 

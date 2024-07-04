@@ -1,6 +1,6 @@
 # Gleaming
 
-_Define el proyecto_
+**_Defición del proyecto_**
 
 Gleaming car es una aplicación creada con el fin de suplir las necesidades de la empresa ofreciendo una mayor organización y eficacia al agregar, modificar o
 eliminar información. Esta incluye una serie de funciones como calculadoras, BDD, entre otras.
@@ -13,7 +13,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-_Que requisitos se necesita para instalar el software_
+**_Que requisitos se necesita para instalar el software_**
 
 Sistema operativo: Windows 10/11
 
@@ -24,7 +24,7 @@ Procesador: 1.80 2.00 Ghz o más
 Tipo de sistema: Procesador basado en 64x bits
 
 
-¿Como se si cumplo los requisitos?
+**¿Como se si cumplo los requisitos?**
 
 Para verificar si cumples con los requisitos dirigete a
 
